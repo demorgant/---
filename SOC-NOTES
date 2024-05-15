@@ -1,0 +1,171 @@
+SOC ANALYST
+
+SOC Stands for security operation center
+
+SOC is used for 
+1. Threat Monitoring
+2. Investigating Alert
+3. Responding Incident
+
+Technology used in SOC
+1. SIEM - Security information event management
+2. EDR - Endpoint detection and response
+3. TIP - Threat Intelligence Platform
+4. SOAR ( security Orchestration Automated response )
+5. Ticketing system - Service now / Jira
+6. MDR - Managed Detection and Response
+
+Task of L1 SOC analys
+1. Alert Triage
+2. 1st Line of defense
+3. Identifying anomalies
+4. Raising request for  whitelist
+5. Performing Investigation
+
+Task of L2 SOC Analys
+1. Monitoring Alert
+2. Threat Hunting
+3. Resource Mentoring
+4. Creating and Approving Whitelists
+5. Handling Escalated Investigations
+
+
+Task of L3 SOC Analys
+1. Client Onboarding 
+2. Incident Management
+3. Report and Documentation
+4. Stakeholder Communication ( Technical )
+
+TOOLS OF SOC
+
+SOAR 
+Security Technologies Used in SOAR
+1. Ticketing
+2. DLP
+3. SIEM
+4. EDR
+5. CTI
+6. Email and web gateways
+7. Network Security
+8. Vulnerability Management
+9. Cloud Tools
+10. IAM / PAM
+
+SIM : Stands for security information mgmt
+SEM : Stands for security event mgmt
+
+SIM + SEM = SIEM = STANDS for security information event management
+
+SIEM is used for :
+1. Log Collection
+2. Log Aggregation
+3. Rwe based alert
+4. Artificial Intelligence 
+5. Response
+6. Parsing
+7. Normalization
+8. Categorization
+9. Enrichment
+10. Indexing
+11. Storage
+
+EDR - Endpoint Detection and Response
+EDR collect only single cources logs unlike ( siem which collects from multiple sources)
+
+
+Automation to protect environment
+1. Triage
+2. Enrichment
+3. TI gathering
+4. Validation across detection tools
+5. close false positives
+6. email users
+7. Block IOC
+8. Alert Administrator
+
+NIST Incident response framework
+1. Preparation
+2. detection and analys
+3. containment, eradication, recovery
+4. post incident activity
+
+SANS Incident response framework 
+1. Preparation
+2. Identification
+3. Containment
+4. Eradication
+5. Recovery
+
+ERADICATION is used for 
+1. removing artifacts
+2. identify all host
+3. update configuration
+4. patches
+5. documentation
+
+Recovery 
+1. restoration
+2. normal operations
+3. activities
+4. monitoring
+5. documentation
+6. prevent reinfection
+
+lesson learned
+1. meeting
+2. 5W1H
+3. way forward
+4. documentation
+
+
+Website to practice free blue teams labs
+1. cyber defenders
+2. blue teams level 1
+3. let defend
+
+cyber defenders
+for network security we can use
+1. webstrike
+2. hawkeye
+3. nuke browser
+
+for malware analys
+1. getpdf
+2. maldoclol
+3. obfuscated
+
+BLUE TEAM CYBER RANGER
+for network analysis
+1. webshell
+2. ransomware
+3. malware compromised
+
+For Endpoint
+1. sysmon
+2. bruteforce
+3. compromised wordpress
+
+For malware 
+1. Ransomeware script
+2. Melissa
+3. ILoveYou
+
+For Phising Analys
+1. Phising analys 1 and 2
+
+Lets Defend
+for malware 
+1. powershell script
+2. pdf analysis
+
+for phising 
+1. phising email
+2. email analys
+
+for endpoint
+1. investigate web attack
+2. conti ransomware
+
+for network 
+1. port scan analysis
+2. infection with cobalt strike
